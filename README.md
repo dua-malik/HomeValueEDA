@@ -17,16 +17,12 @@ Since the COVID-19 Pandemic, housing prices have skyrocketed or pummeled in cert
 
 <img align = "left" src="https://user-images.githubusercontent.com/98187080/201456661-b474464d-3ecc-4e70-a404-4cffc00fa64b.png" width=75% height=75%>
 
-<br>
-
 This graph highlights the range of walk scores across different states taking population into consideration. As we can see, New York has one of the highest walk scores in the nation, followed by other states such as California. NYC is known internationally as a tourist hub and emphasizes public transportation. Furthermore, since NY has densely packed cities such as Brooklyn, NYC, and Queens. All of these cities, emphasize the usage of public transport and walking as a means of transportation. 
 
-<br>
 <br>
 
 <img align = "right" src="https://user-images.githubusercontent.com/98187080/201456718-063797aa-9117-49db-9ea7-ba7a751781a0.png" width=75% height=75%>
 
-<br>
 
 Studies have shown that millenials are less interested in cars that previous generations and are more likely to use mass transit and live in an area where it is easy to walk to a destination. Millenials represent 43% of homebuyers in the market -- the highest share of any generation (source: National Association of Realtors). Since millenials tend to gravitate to areas with mass-transport and ease of walkability, this factor may play a role in house prices as a large share of homebuyers are looking in a market that emphaisizes walkability and transit. From general knowledge, many people know that New York has a high cost of living and a high walk score as well as transit score as highlighted in the graph. 
 
