@@ -17,8 +17,6 @@ Since the COVID-19 Pandemic, housing prices have skyrocketed or pummeled in cert
 
 ### Walk Score and Transit Score:
 
-<br>
-
 <img align = "left" src="https://user-images.githubusercontent.com/98187080/201456661-b474464d-3ecc-4e70-a404-4cffc00fa64b.png" width=75% height=75%>
 
 This graph highlights the range of walk scores across different states taking population into consideration. As we can see, New York has one of the highest walk scores in the nation, followed by other states such as California. NYC is known internationally as a tourist hub and emphasizes public transportation. Furthermore, since NY has densely packed cities such as Brooklyn, NYC, and Queens. All of these cities, emphasize the usage of public transport and walking as a means of transportation. 
