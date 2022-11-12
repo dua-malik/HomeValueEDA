@@ -13,15 +13,18 @@ Since the COVID-19 Pandemic, housing prices have skyrocketed or pummeled in cert
 
 ### Walk Score and Transit Score:
 
-<img align = "left" src="https://user-images.githubusercontent.com/98187080/201456661-b474464d-3ecc-4e70-a404-4cffc00fa64b.png" width=50% height=50%>
+<img align = "left" src="https://user-images.githubusercontent.com/98187080/201456661-b474464d-3ecc-4e70-a404-4cffc00fa64b.png" width=75% height=75%>
 
 This graph highlights the range of walk scores across different states taking population into consideration. As we can see, New York has one of the highest walk scores in the nation, followed by other states such as California. NYC is known internationally as a tourist hub and emphasizes public transportation. Furthermore, since NY has densely packed cities such as Brooklyn, NYC, and Queens. All of these cities, emphasize the usage of public transport and walking as a means of transportation. 
 
-
+<img align = "right" src="https://user-images.githubusercontent.com/98187080/201456718-063797aa-9117-49db-9ea7-ba7a751781a0.png" width=75% height=75%>
 
 Studies have shown that millenials are less interested in cars that previous generations and are more likely to use mass transit and live in an area where it is easy to walk to a destination. Millenials represent 43% of homebuyers in the market -- the highest share of any generation (source: National Association of Realtors). Since millenials tend to gravitate to areas with mass-transport and ease of walkability, this factor may play a role in house prices as a large share of homebuyers are looking in a market that emphaisizes walkability and transit. From general knowledge, many people know that New York has a high cost of living and a high walk score as well as transit score as highlighted in the graph. 
 
 ### Obesity Rates in America:
+
+<img align = "right" src="https://user-images.githubusercontent.com/98187080/201456755-287569b9-5a99-4484-8aa5-d19b669ac1cc.png" width=75% height=75%>
+<img align = "left" src="https://user-images.githubusercontent.com/98187080/201456771-bbed4ae1-9253-4c9b-9a9d-17e9ba83db35.png" width=75% height=75%>
 
 A study done by researchers at the University of Washing School of Public Health discovered a strong association between home values and obesity among women in Seattle and its suburbs. Using this study, obesity rates in both adult male and females were used as a parameter to check if this correlation was seen on a national level. 
 
