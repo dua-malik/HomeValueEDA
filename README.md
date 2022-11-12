@@ -21,8 +21,7 @@ This graph highlights the range of walk scores across different states taking po
 
 <br>
 
-<img align = "right" src="https://user-images.githubusercontent.com/98187080/201456718-063797aa-9117-49db-9ea7-ba7a751781a0.png" width=75% height=75%>
-
+<img align = "left" src="https://user-images.githubusercontent.com/98187080/201456718-063797aa-9117-49db-9ea7-ba7a751781a0.png" width=75% height=75%>
 
 Studies have shown that millenials are less interested in cars that previous generations and are more likely to use mass transit and live in an area where it is easy to walk to a destination. Millenials represent 43% of homebuyers in the market -- the highest share of any generation (source: National Association of Realtors). Since millenials tend to gravitate to areas with mass-transport and ease of walkability, this factor may play a role in house prices as a large share of homebuyers are looking in a market that emphaisizes walkability and transit. From general knowledge, many people know that New York has a high cost of living and a high walk score as well as transit score as highlighted in the graph. 
 
@@ -71,23 +70,21 @@ Below, I produced correlation matrices between the median list prices of homes a
 <br>
 <br>
 Despite the fact that the analyzed factors do not play a significant role, it is important to highlight that parameters such as walkability, quality of life, and access to public transportation do have a positive correlation when it comes to the median list prices. It is also important to note that working with a larger dataset may help identify the same parameters with different correlation values. In particular, many studies have found that there is a moderately strong negative correlation between unemployment rates and housing prices. In this analysis, we also concluded that unemployment rates and median housing list prices had a negative correlation however the value was low. In future studies, instead of list prices, closing prices should be analyzed. 
+<br>
+<br>
 
 <img align = "center" src="https://user-images.githubusercontent.com/98187080/201456834-a09c8d17-26e4-4f77-887f-420aa8d8bebc.png" width=50% height=50%>
 
 <br> 
-
-<br>
 
 
 <img align = "center" src="https://user-images.githubusercontent.com/98187080/201456850-c7188e28-e3e2-4d98-ae5f-c43901348373.png" width=50% height=50%>
 
 <br>
 
-<br>
 
 <img align = "center" src="https://user-images.githubusercontent.com/98187080/201456877-e3094b88-43fb-43f4-a137-85e5baeab40f.png" width=50% height=50%>
 
-<br>
 <br>
 
 <img align = "center" src="https://user-images.githubusercontent.com/98187080/201456895-7ff6b847-96de-4c02-84dc-c71bde94de85.png" width=50% height=50%>
