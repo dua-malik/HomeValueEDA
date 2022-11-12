@@ -31,30 +31,27 @@ Studies have shown that millenials are less interested in cars that previous gen
 
 ### Obesity Rates in America:
 
-<br>
-
-<img align = "left" src="https://user-images.githubusercontent.com/98187080/201456755-287569b9-5a99-4484-8aa5-d19b669ac1cc.png" width=75% height=75%>
-
-<br>
-
-<img align = "left" src="https://user-images.githubusercontent.com/98187080/201456771-bbed4ae1-9253-4c9b-9a9d-17e9ba83db35.png" width=75% height=75%>
-
-<br>
-
 A study done by researchers at the University of Washing School of Public Health discovered a strong association between home values and obesity among women in Seattle and its suburbs. Using this study, obesity rates in both adult male and females were used as a parameter to check if this correlation was seen on a national level. 
 
 <br>
 
+<img align = "center" src="https://user-images.githubusercontent.com/98187080/201456755-287569b9-5a99-4484-8aa5-d19b669ac1cc.png" width=75% height=75%>
+
+<br>
+<br>
+
+<img align = "center" src="https://user-images.githubusercontent.com/98187080/201456771-bbed4ae1-9253-4c9b-9a9d-17e9ba83db35.png" width=75% height=75%>
+
+<br>
+<br>
+
 ### Unemployment Rates in America:
 
-<br>
-
-<img align = "left" src="https://user-images.githubusercontent.com/98187080/201456806-f59ac02c-fd11-4e8e-8817-479e5d3e7dcc.png" width=75% height=75%>
-
-<br>
-
 A significant factor that highlights the economy of a state and nation is the unemployment rate. Many studies have shown that a higher unemployment rate is associated with lower housing prices, hence it is used as a parameter in this study to analyze the correlation between the two.  
-
+<br>
+<br>
+<img align = "center" src="https://user-images.githubusercontent.com/98187080/201456806-f59ac02c-fd11-4e8e-8817-479e5d3e7dcc.png" width=75% height=75%>
+<br>
 <br>
 
 ### Happiness Index Across States:
