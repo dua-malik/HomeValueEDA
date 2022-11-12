@@ -1,15 +1,16 @@
-#  Exploring Factors That Impact Median Listing Prices for Homes In USA:
+#  Exploring Possible Factors That Impact Median Listing Prices for Homes In USA:
 
 ## Objective:
 
 Since the COVID-19 Pandemic, housing prices have skyrocketed or pummeled in certain areas. With the rise of remote work, many individuals have moved away from areas closer to their workplaces, or have used the pandemic as an opportunity to move elsewhere. It is hard to watch the news without housing prices being mentioned. As a homeowner myself, I wanted to explore what factors impact the overall cost of a house. After doing some research I decided to explore factors including walkability, access to public transportation, unemployment rates, and overall happiness/quality of life in an area. Furthermore, I wanted to explore another factor that was linked to house-value by the University of Washington School of Public Health and that is obesity rates. 
 
-## Median Listing Price For Homes Across America:
-
-<img align = "center" src="https://user-images.githubusercontent.com/98187080/201456568-838a4a52-c748-4246-b913-753e58771289.png" width=75% height=75%>
-
 
 ## Summary and Findings: 
+
+### Median Listing Price For Homes Across America:
+
+<img align = "center" src="https://user-images.githubusercontent.com/98187080/201456568-838a4a52-c748-4246-b913-753e58771289.png" width=75% height=75%>
+<br>
 
 ### Walk Score and Transit Score:
 
