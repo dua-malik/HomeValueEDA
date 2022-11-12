@@ -11,8 +11,6 @@ Since the COVID-19 Pandemic, housing prices have skyrocketed or pummeled in cert
 
 ## Summary and Findings: 
 
-<br>
-
 ### Walk Score and Transit Score:
 
 <br>
@@ -74,6 +72,7 @@ Quality of life is an important parameter before settling on buying a house. Qua
 
 <br>
 Below, I produced correlation matrices between the median list prices of homes and varying parameters to explore how strong the correlation is between the two datasets. From the results we can see that the parameters that were explored above have low correlation scores when comparing its affects on list prices. There are many factors that play significant and or minor roles in the list price of homes. In this analysis I concluded that the parameters that were explored did not play a significant role in affecting the overall median list price of homes. To better improve this study, neighboring home list prices and historic property value should be evaluated as parameters that may produce a strong correlation value. 
+<br>
 <br>
 Despite the fact that the analyzed factors do not play a significant role, it is important to highlight that parameters such as walkability, quality of life, and access to public transportation do have a positive correlation when it comes to the median list prices. It is also important to note that working with a larger dataset may help identify the same parameters with different correlation values. In particular, many studies have found that there is a moderately strong negative correlation between unemployment rates and housing prices. In this analysis, we also concluded that unemployment rates and median housing list prices had a negative correlation however the value was low. In future studies, instead of list prices, closing prices should be analyzed. 
 
