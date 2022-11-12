@@ -6,7 +6,7 @@ Since the COVID-19 Pandemic, housing prices have skyrocketed or pummeled in cert
 
 ## Median Listing Price For Homes Across America:
 
-<img align = "middle" src="https://user-images.githubusercontent.com/98187080/201456568-838a4a52-c748-4246-b913-753e58771289.png" width=50% height=50%>
+<img align = "left" src="https://user-images.githubusercontent.com/98187080/201456568-838a4a52-c748-4246-b913-753e58771289.png" width=75% height=75%>
 
 
 ## Summary and Findings: 
